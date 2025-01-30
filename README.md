@@ -28,7 +28,7 @@ You can find the web app running here: [https://md-cover-designer.web.app/](http
 
 ✅ **Responsive UI** – Seamlessly works on both desktop and mobile devices.
 
-- **0.8.4 Beta (2025/01/30)**:
+- **0.8.5 Beta (2025/01/30)**:
   - **Added**: Support for Hi-MD disc formats (PCM, Hi-SP, Hi-LP).
   - **Improved**: A loading spinner now appears while downloading an MD preview.
   - **Fixed**: Cover export now correctly applies the required white background.
