@@ -18,18 +18,19 @@ You can find the web app running here: [https://md-cover-designer.web.app/](http
 
 ---
 
-## 🚀 0.8 Beta Features
+## Changelog
 
-✅ **MD Cover & Spine Designer** – Create custom labels with a wide range of customization options.
+### 0.9.1 Beta (2025/02/28):
+  - Adds a checkbox on Cover & Spine view to toggle cut-lines.
 
-✅ **Preview Mode** – See exactly how your label will look on your preferred MiniDisc before printing.
-
-✅ **Project Save & Load** – Save your designs for future edits or share them with others.
-
-✅ **Responsive UI** – Seamlessly works on both desktop and mobile devices.
-
-- **0.8.5 Beta (2025/01/30)**:
+### 0.8.5 Beta (2025/01/30):
   - **Added**: Support for Hi-MD disc formats (PCM, Hi-SP, Hi-LP).
   - **Improved**: A loading spinner now appears while downloading an MD preview.
   - **Fixed**: Cover export now correctly applies the required white background.
   - **Optimized**: Various stability improvements and performance optimizations.
+
+### 0.8 Beta:
+  - **MD Cover & Spine Designer**: Create custom labels with a wide range of customization options.
+  - **Preview Mode**: See exactly how your label will look on your preferred MiniDisc before printing.
+  - **Project Save & Load**: Save your designs for future edits or share them with others.
+  - **Responsive UI**: Seamlessly works on both desktop and mobile devices.
