@@ -20,9 +20,10 @@ You can find the web app running here: [https://md-cover-designer.web.app/](http
 
 ## Changelog
 
-### 0.9.3 Beta (2025/05/13):
-  - Adds a checkbox on Cover & Spine view to toggle cut-lines.
+### 0.9.4 Beta (2025/05/16):
+  - Added a checkbox on Cover & Spine view to toggle cut-lines.
   - Displays a spinner while loading or saving.
+  - Added MD previews for various brands from the 1996s.
   - Bugfix: Cover sometimes was not displayed in the MD preview.
 
 ### 0.8.5 Beta (2025/01/30):
