@@ -20,11 +20,12 @@ You can find the web app running here: [https://md-cover-designer.web.app/](http
 
 ## Changelog
 
-### 1.0.2 (2025/06/06):
+### 1.0.4 (2025/06/11):
   - Added a button to toggle the settings panel.
   - Better responsiveness.
   - App is ready for internationalization.
   - A language selector has been added to the Settings dialog. The app is now available in English and Spanish.
+  - A Dark/Light mode option has been added to the Settings dialog.
 
 ### 0.9.9 Beta (2025/05/28):
   - Added a checkbox on Cover & Spine view to toggle cut-lines.
