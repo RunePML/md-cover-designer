@@ -20,12 +20,14 @@ You can find the web app running here: [https://md-cover-designer.web.app/](http
 
 ## Changelog
 
-### 1.0.5 (2025/06/11):
+### 1.0.7 (2025/06/25):
   - Added a button to toggle the settings panel.
   - Better responsiveness.
   - App is ready for internationalization.
   - A language selector has been added to the Settings dialog. The app is now available in English and Spanish.
   - A Dark/Light mode option has been added to the Settings dialog.
+  - Added a button to the settings dialog to log in/out of the Spotify API.
+  - Added a button to the general Cover settings that extracts Album data from Spotify API (Album cover, name, artists, tracks, duration and release year).
   - Bugfix: Fixed layout bug at resolutions 851 to 853 pixel wide.
 
 ### 0.9.9 Beta (2025/05/28):
